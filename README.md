@@ -1,10 +1,16 @@
-# Concurso TREs + TSE Unificado - Cargo: TECNOLOGIA DE SOFTWARE
+---
+@import "css/style.css"
+---
 
-Repositório para resumos e resenhas relacionadas com o concurso TREs + TSE Unificado para o cargo de TECNOLOGIA DA INFORMAÇÃO
+<img src="./imagens/logo-tse-concurso-unificado.jpg">
+
+# Concurso TREs + TSE Unificado - Cargo: TECNOLOGIA DA INFORMAÇÃO
+
+Repositório para resumos e resenhas relacionadas com o concurso TREs + TSE Unificado para o cargo de TECNOLOGIA DA INFORMAÇÃO.
 
 ## Cargo 17: ANALISTA JUDICIÁRIO – ÁREA: APOIO ESPECIALIZADO – ESPECIALIDADE: TECNOLOGIA DA INFORMAÇÃO
 
-- **REQUISITO**S: diploma, devidamente registrado, de conclusão de curso superior na área de Tecnologia da Informação, Análise e Desenvolvimento de Sistemas, Ciência da Computação, Engenharia de Software, TRIBUNAL SUPERIOR ELEITORAL (TSE) Engenharia de Redes, Segurança das Informações, Sistemas de Informação, Engenharia da Computação ou outras correlatas, fornecido por instituição de ensino superior reconhecida pelo MEC.
+- **REQUISITOS**: diploma, devidamente registrado, de conclusão de curso superior na área de Tecnologia da Informação, Análise e Desenvolvimento de Sistemas, Ciência da Computação, Engenharia de Software, TRIBUNAL SUPERIOR ELEITORAL (TSE) Engenharia de Redes, Segurança das Informações, Sistemas de Informação, Engenharia da Computação ou outras correlatas, fornecido por instituição de ensino superior reconhecida pelo MEC.
 - **DESCRIÇÃO SUMÁRIA DAS ATIVIDADES**: desenvolver atividades de planejamento, coordenação, desenvolvimento e implantação de Projetos de Sistemas; desenvolver atividades relacionadas ao planejamento, governança, à gestão de tecnologia da informação e à manutenção de rede, banco de dados, e comunicação de dados, dos sistemas informatizados; implementar e monitorar políticas e práticas de segurança da informação; realizar avaliações de risco e auditorias de segurança para identificar potenciais vulnerabilidades e implementar soluções; promover perícias e auditorias de projetos e sistemas de informação; realizar especificações técnicas de equipamentos, softwares e serviços de informática.
 - **REMUNERAÇÃO INICIAL**: R$ 13.994,78.
 - **JORNADA DE TRABALHO**: 40 horas semanais.
@@ -14,18 +20,18 @@ Repositório para resumos e resenhas relacionadas com o concurso TREs + TSE Unif
 - Página do último concurso no CEBRASPE: [CONCURSO PÚBLICO NACIONAL UNIFICADO DA JUSTIÇA ELEITORAL](https://www.cebraspe.org.br/concursos/cpnuje_24)
 - [Edital nº 1 – Abertura do Concurso – Atualizado conforme retificações](https://cdn.cebraspe.org.br/concursos/cpnuje_24/arquivos/Edital_1_2024_CPNUJE_Abertura_atualizado_ret_15.pdf)
 
-## Disciplinas
+## Disciplinas do Concurso
 
 | # | Disciplina |
 | --- | --- |
-| 1 | ARQUITETURA DE DESENVOLVIMENTO DA PLATAFORMA DIGITAL DO PODER JUDICIÁRIO BRASILEIRO (PDPJ-Br) |
-| 2 | NORMATIVOS DA PDPJ-BR |
-| 3 | ENGENHARIA DE SOFTWARE |
-| 4 | DESENVOLVIMENTO DE SISTEMAS |
-| 5 | INFRAESTRUTURA |
-| 6 | BANCOS DE DADOS |
-| 7 | SISTEMAS EMBARCADOS |
-| 8 | GESTÃO E GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO |
+| 1 | [ARQUITETURA DE DESENVOLVIMENTO DA PLATAFORMA DIGITAL DO PODER JUDICIÁRIO BRASILEIRO (PDPJ-Br)](./disciplinas/pdpj-br-arquitetura-de-desenvolvimento/readme.md) |
+| 2 | [NORMATIVOS DA PDPJ-BR](./disciplinas/pdpj-br-normativos/readme.md) |
+| 3 | [ENGENHARIA DE SOFTWARE](./disciplinas/engenharia-de-software/readme.md) |
+| 4 | [DESENVOLVIMENTO DE SISTEMAS](./disciplinas/desenvolvimento-de-sistemas/readme.md) |
+| 5 | [INFRAESTRUTURA](./disciplinas/infraestrutura/readme.md) |
+| 6 | [BANCOS DE DADOS](./disciplinas/bancos-de-dados/readme.md) |
+| 7 | [SISTEMAS EMBARCADOS](./disciplinas/sistemas-embarcados/readme.md) |
+| 8 | [GESTÃO E GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO](./disciplinas/gestao-e-governanca-de-ti/readme.md) |
 
 ## Conteúdo Programático
 
