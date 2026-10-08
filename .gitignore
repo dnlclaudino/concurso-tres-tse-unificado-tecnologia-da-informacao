@@ -1,0 +1,7 @@
+# Configuração geral dos arquivos que serão ignorados neste repositório 
+*.pdf
+*.tmp
+
+# Exceção: Normas em geral. 1) Normas jurídicas 2) Normas Brasileiras de Contabilidade 3) Normas CFC e CRC 4) etc.
+!normas/**/*.pdf
+!**/apostilas/*.pdf
