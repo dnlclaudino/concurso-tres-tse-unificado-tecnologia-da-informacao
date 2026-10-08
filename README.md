@@ -1,8 +1,4 @@
----
-@import "css/style.css"
----
-
-<img src="./imagens/logo-tse-concurso-unificado.jpg">
+<img src="./imagens/logo-tse-concurso-unificado.jpg" style="display: block; margin: 0 auto; width: 50%;">
 
 # Concurso TREs + TSE Unificado - Cargo: TECNOLOGIA DA INFORMAÇÃO
 
